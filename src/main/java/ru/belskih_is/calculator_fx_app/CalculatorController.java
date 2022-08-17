@@ -3,10 +3,9 @@ package ru.belskih_is.calculator_fx_app;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
-import javafx.scene.control.Label;
 import javafx.scene.text.Text;
 
-public class HelloController {
+public class CalculatorController {
 
     @FXML
     private Text output;

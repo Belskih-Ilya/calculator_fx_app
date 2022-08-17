@@ -7,12 +7,12 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-public class HelloApplication extends Application {
+public class CalculatorApplication extends Application {
     @Override
     public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("calculator-view.fxml"));
+        FXMLLoader fxmlLoader = new FXMLLoader(CalculatorApplication.class.getResource("calculator-view.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 320, 450);
-        stage.setTitle("Hello!");
+        stage.setTitle("Simple Calculator");
         stage.setScene(scene);
         stage.show();
     }
