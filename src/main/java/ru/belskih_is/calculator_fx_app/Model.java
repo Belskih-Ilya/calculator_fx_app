@@ -17,4 +17,8 @@ public class Model {
         System.out.println("Неизвестный оператор " + operator);
         return 0;
     }
+
+    public String divisionByZero () {
+        return "Деление на ноль невозможно!";
+    }
 }

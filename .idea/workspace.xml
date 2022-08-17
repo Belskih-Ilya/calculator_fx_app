@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a8eea76-c7d7-4df3-9c0d-6bda98ef3307" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0a8eea76-c7d7-4df3-9c0d-6bda98ef3307" name="Changes" comment="First commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/belskih_is/calculator_fx_app/CalculatorApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/belskih_is/calculator_fx_app/CalculatorApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/belskih_is/calculator_fx_app/CalculatorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/belskih_is/calculator_fx_app/CalculatorController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/belskih_is/calculator_fx_app/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/belskih_is/calculator_fx_app/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/ru/belskih_is/calculator_fx_app/calculator-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ru/belskih_is/calculator_fx_app/calculator-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +75,14 @@
       <option name="presentableId" value="Default" />
       <updated>1660547635063</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1660721358847</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660721358848</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,5 +95,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>

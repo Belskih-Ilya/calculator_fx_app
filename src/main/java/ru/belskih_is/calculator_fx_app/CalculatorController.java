@@ -36,6 +36,11 @@ public class CalculatorController {
         } else {
             if (operator.isEmpty()) return;
             num2 = Long.parseLong(output.getText());
+            if (operator.equals("/")) {
+                if (num2 == 0) output.setText(model.divisionByZero());
+                start = true;
+                return;
+            }
             output.setText(String.valueOf(model.calculate(num1, num2, operator)));
             start = true;
         }
